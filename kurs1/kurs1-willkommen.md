@@ -77,7 +77,7 @@ zum Stand des Projekts sagen.
 
 ## 4.2. Folien online (Werkstatt I)
 
-- [Folien sind online abrufbar](https://github.com/molldur/werkstatt-sose/kurs1/)
+- [Folien sind online abrufbar](https://github.com/molldur/werkstatt-sose/tree/main/kurs1)
 
 ---
 
