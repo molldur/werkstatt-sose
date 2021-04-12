@@ -36,7 +36,7 @@ _Felix Werthschulte, Dozent für Neue Medien_
 
 ## 2. Termine
 
-- [Termine](https://github.com/molldur/werkstatt-sose/kurs1/termine.md)
+- [Termine](https://github.com/molldur/werkstatt-sose/blob/main/kurs1/kurs1-termine.md)
 
 ---
 
@@ -91,43 +91,6 @@ zum Stand des Projekts sagen.
 ---
 
 ## 4.4. Telegram-Chat (Werkstatt I)
-
-- weiterhin optional
-- für Dateiaustausch (bis 2 GB) zu verwenden
-- auch als Notlösung, falls Videokonferenz nicht funktioniert
-
----
-
-## 4.5. Aufgabe zum nächsten Mal
-
-- Ideen sammeln: Welches Neue Medien-Projekt wäre spannend?
-
----
-
-## 4.1. Pads (Werkstatt II)
-
-- [Seminar-Pad](https://cryptpad.fr/pad/#/2/pad/edit/9BrzElglY3e4-HM1V1OzMhfr/)
-- [Projektpad Team 1](https://cryptpad.fr/pad/#/2/pad/edit/jKhifHLKkZ7w0I8WeCe7RvYs/)
-- [Projektpad Team 2](https://cryptpad.fr/pad/#/2/pad/edit/9ga5ld4Vd1gv51GiAqNoTUr2/)
-- [Projektpad Team 3](https://cryptpad.fr/pad/#/2/pad/edit/gjfBMLbfsMxKJoM-+wMoyOhH/)
-
----
-## 4.2. Folien online (Werkstatt II)
-
-- [Folien sind online abrufbar](https://github.com/molldur/werkstatt-sose/kurs2/)
-
----
-
-## 4.3. Jitsi-Konferenzen (Werkstatt II)
-
-- [https://meet.ffmuc.net/MAKSSoSe21NeueMedienWerkstattII](https://meet.ffmuc.net/MAKSSoSe21NeueMedienWerkstattII)
-- Alternativlink: [https://jitsi.uni-due.de/MAKSSoSe21NeueMedienWerkstattII](https://jitsi.uni-due.de/MAKSSoSe21NeueMedienWerkstattII)
-- Link bleibt immer gleich, bitte abspeichern!
-- Kurzanleitung für Jitsi auf dem Smartphone [hier](https://youtu.be/zmGvj4FvSO8)
-
----
-
-## 4.4. Telegram-Chat (Werkstatt II)
 
 - weiterhin optional
 - für Dateiaustausch (bis 2 GB) zu verwenden

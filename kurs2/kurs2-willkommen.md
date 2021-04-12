@@ -36,7 +36,7 @@ _Felix Werthschulte, Dozent für Neue Medien_
 
 ## 2. Termine
 
-- [Termine](https://github.com/molldur/werkstatt-sose/kurs2/termine.md)
+- [Termine](https://github.com/molldur/werkstatt-sose/blob/main/kurs2/kurs2-termine.md)
 
 ---
 
